@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Katharine
+-Profissão: Operacional de franquias
+-Cidade: São José do Rio Preto
+-O que faz nas horas vaga: Faço macramê, leio livros e gosto de jogos de tabuleiro
+-Feedback sobre o curso Qualidade de Software: Tenho aprendido muito no curso, é um assunto novo e tenho conquistado mais confiança
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma é excelente, acompanho os webimars, e consigo ver aulas até pelo celular
 
 Obrigado!!!
 
